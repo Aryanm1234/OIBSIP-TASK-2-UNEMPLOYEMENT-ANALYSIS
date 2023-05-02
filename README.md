@@ -1,0 +1,1 @@
+UNEMPLOYEMENT ANALYSIS: how lock-down affects employment opportunities and how the unemployment rate increses in india over the decade. It is representd in region wise. It is also visualized in some of the charts.
